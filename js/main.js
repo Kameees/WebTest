@@ -1,3 +1,5 @@
+//一个让导航栏在介绍页面出现的小小动态js脚本 参照akashyap2013写的
+
 let nCount = selector => {
   $(selector).each(function () {
     $(this)
