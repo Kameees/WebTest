@@ -20,24 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90d1e814-0ad3-4a16-96fa-c6e9c939f149" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/images/1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/1.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bg-main.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/bg-main.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ika.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/ika.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/12.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/memoirs/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/splatoon-ika.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/splatoon-ika.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587691073799</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1587691550904</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587691550904</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,9 +101,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1587691082195">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1587691555599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587691082195" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587691555599" />
   </component>
 </project>
