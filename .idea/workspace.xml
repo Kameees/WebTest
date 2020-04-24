@@ -20,8 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90d1e814-0ad3-4a16-96fa-c6e9c939f149" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/docs/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg-main.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/bg-main.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ika.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/ika.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/memoirs/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/memoirs/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/splatoon-ika.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images/splatoon-ika.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +60,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git Repository\tapioka\docs" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -62,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587690807899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1587691073799</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587691073799</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,9 +110,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1587690815503">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1587691082195">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587690815503" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587691082195" />
   </component>
 </project>
